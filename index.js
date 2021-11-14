@@ -1,4 +1,4 @@
-const Discord = require('discord.js')
+const Discord = require('discord.js-v11')
 const Client = new Discord.Client()
 
 const Bot = Client
